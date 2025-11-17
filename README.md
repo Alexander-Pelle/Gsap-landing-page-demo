@@ -2,7 +2,7 @@
 
 A modern, animated cocktail bar landing page built with React and GSAP (GreenSock Animation Platform). 
 
-**Note:** This is my personal project for learning GSAP animations. The code includes detailed comments throughout to help me (and hopefully others) understand how each animation works, even if you're new to GSAP.
+**Note:** This is my personal project for learning GSAP animations. The code includes detailed comments throughout so anyone can understand how each animation works, even if you're new to GSAP.
 
 ## Demo
 ### https://gsap-landing-page-demo-ar1c.vercel.app/
